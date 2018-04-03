@@ -1,0 +1,16 @@
+{
+  "name": "hnust-network-monitor",
+  "version": "1.0.0",
+  "main": "job",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.19",
+    "mysql": "^2.15.0",
+    "node-schedule": "^1.3.0",
+    "request": "^2.85.0"
+  },
+  "description": "crawl network traffic from https://support.hnust.edu.cn/app/",
+  "repository": "https://github.com/cloverzrg/hnust-network-monitor.git",
+  "author": "cloverzrg"
+}
